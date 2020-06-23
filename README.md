@@ -92,11 +92,9 @@ In order to print the number of rows and columns
 ```python
   print(dataframe.count(), len(dataframe.columns))
 ```
-
-``
-# The first number of the number of rows and the second is the number of columns
+The first number is the number of rows and the second number is the number of columns:
   10195 12
-``
+
 
 ### 1.4 Show the basic statistics for a column .
 
